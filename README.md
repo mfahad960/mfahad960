@@ -4,7 +4,7 @@
 ## 🌠 Something stuff about me:
 - 🌱 Undergrad computer science student.
 - 🔭 I’m currently exploring Machine Learning, Deep Learning, and DevOps.
-- ⚡ Proud pcmr, love gaming, linux ricing
+- ⚡ Proud pcmr, love gaming and linux ricing.
 - 📕 Checkout my [resume.](https://drive.google.com/file/d/1LOwI7QgP22GFX2Y8Wo-QSL5wr1HejEvv/view?usp=drive_link)
 
 ## 🌎 Socials:
