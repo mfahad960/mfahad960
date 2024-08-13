@@ -1,5 +1,5 @@
-## Hey there 👋, I'm Muhamamd Fahad
-<img align="right"src="https://media.giphy.com/media/WOb8EeFziTQNE02WXs/giphy.gif]https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXI5cDljYXlwdWFzd20yYXZ3cnZxMDY3cHgycjN1dXpudGV0aTg3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4CRg29WJn1mqMlPhYv/giphy.webp" />
+# Hey there 👋, I'm Muhamamd Fahad
+<img align="right" src="https://media.giphy.com/media/WOb8EeFziTQNE02WXs/giphy.gif]https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXI5cDljYXlwdWFzd20yYXZ3cnZxMDY3cHgycjN1dXpudGV0aTg3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4CRg29WJn1mqMlPhYv/giphy.webp"/>
 
 ## 🌠 Something about myself:
 - 🌱 Undergrad computer science student.
