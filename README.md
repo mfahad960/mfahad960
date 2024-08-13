@@ -7,3 +7,5 @@
 - 💬 Ask me about ...
 - ⚡ Proud pcmr, love gaming, linux ricing
 - 📕 Checkout my [resume.](https://drive.google.com/file/d/1LOwI7QgP22GFX2Y8Wo-QSL5wr1HejEvv/view?usp=drive_link)
+
+## 🌎 Connect:
