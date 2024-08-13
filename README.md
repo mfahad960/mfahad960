@@ -12,4 +12,4 @@
 <p> <a href="https://www.linkedin.com/in/muhammadfahad960/"><img src="https://img.shields.io/badge/muhammadfahad960-0077B5?style=flat&logo=LinkedIn" alt="LinkedIn Badge"></a> <a href="https://leetcode.com/mfahad960/"><img src="https://img.shields.io/badge/-@mfahad960-critical?style=flat-square&amp;labelColor=0077B5&amp;logo=leetcode&amp;link=https://leetcode.com/mfahad960/" alt="leetcode Badge"></a></p>
 
 ## 📊 Github Stats:
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=a3e5c07f-ce90-49e9-ba37-bf3d156e2dfc)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mfahad960)](https://github.com/anuraghazra/github-readme-stats)
