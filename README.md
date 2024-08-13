@@ -12,6 +12,6 @@
 <p> <a href="https://www.linkedin.com/in/muhammadfahad960/"><img src="https://img.shields.io/badge/muhammadfahad960-0077B5?style=flat&logo=LinkedIn" alt="LinkedIn Badge"></a> <a href="https://leetcode.com/mfahad960/"><img src="https://img.shields.io/badge/-@mfahad960-critical?style=flat-square&amp;labelColor=0077B5&amp;logo=leetcode&amp;link=https://leetcode.com/mfahad960/" alt="leetcode Badge"></a></p>
 
 ## 📊 Github Stats:
-![](https://github-readme-stats.vercel.app/api?username=mfahad960&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mfahad960&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mfahad960&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=mfahad960&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mfahad960&theme=catppuccin_mocha&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mfahad960&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
