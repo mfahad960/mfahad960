@@ -12,5 +12,5 @@
 
 ## 🎯 Stats:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mfahad960&theme=catppuccin_mocha&count_private=true&hide_border=true"/>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mfahad960&theme=catppuccin_mocha&hide_border=true"/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mfahad960&theme=catppuccin_mocha&count_private=true&hide_border=true"/>
 <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfahad960&theme=catppuccin_mocha&count_private=true&hide_border=true&compact=true"/>
