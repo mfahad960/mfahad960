@@ -1,9 +1,9 @@
 # Hey there 👋, I'm Muhamamd Fahad
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTVmNmN4Ym1xNW05dHJpODhodXZsOXA0Nm05Z3ByeGZuYzVua2VtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zzDvEA7LAo51SHK8Mv/giphy.webp"/>
 
-## 🌠 Something stuff about me:
+## 🌠 Something about myself:
 - 🌱 Undergrad computer science student.
-- 🔭 I’m currently exploring Machine Learning, Deep Learning, and DevOps.
+- 🔭 I’m currently exploring Machine Learning, Deep Learning, and DevOps along with ReactJS for frontend, and Python and Node for backend and Discord bot development.
 - ⚡ Proud pcmr, love gaming and linux ricing.
 - 📕 Checkout my [resume.](https://drive.google.com/file/d/1LOwI7QgP22GFX2Y8Wo-QSL5wr1HejEvv/view?usp=drive_link)
 
