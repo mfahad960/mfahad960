@@ -5,7 +5,7 @@
 - 🌱 Undergrad computer science student.
 - 🔭 I’m currently exploring Machine Learning, Deep Learning, and DevOps along with ReactJS for frontend, and Python and Node for backend and Discord bot development.
 - ⚡ Proud pcmr, love gaming and linux ricing.
-- 📕 Checkout my [resume.](https://drive.google.com/file/d/1LOwI7QgP22GFX2Y8Wo-QSL5wr1HejEvv/view?usp=drive_link)
+- 📕 Checkout my [resume.]([https://drive.google.com/file/d/1LOwI7QgP22GFX2Y8Wo-QSL5wr1HejEvv/view?usp=drive_link](https://drive.google.com/file/d/1FIfmfgo0ZukCsukcN3b8sbZEhXgXaVUx/view?usp=sharing))
 
 ## 🌎 Links:
 <p> <a href="https://www.linkedin.com/in/muhammadfahad960/"><img src="https://img.shields.io/badge/muhammadfahad960-0077B5?style=flat&logo=LinkedIn" alt="LinkedIn Badge"></a> <a href="https://leetcode.com/mfahad960/"><img src="https://img.shields.io/badge/-@mfahad960-critical?style=flat-square&amp;labelColor=0077B5&amp;logo=leetcode&amp;link=https://leetcode.com/mfahad960/" alt="leetcode Badge"></a></p>
